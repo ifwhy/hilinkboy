@@ -27,7 +27,7 @@ const DrawerMobile = () => {
           <SheetTitle>
             <div className='flex items-center gap-2 justify-center flex-wrap'>
               <Logo />
-              <Link href="/" className="font-bold text-xl">Putuk Truno Camp Area</Link>
+              <Link href="/" className="font-bold text-xl">Boyolali Exploration</Link>
             </div>
           </SheetTitle>
           <div className='flex flex-col items-center'>
